@@ -1,5 +1,5 @@
 <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yash Kumar Tyagi</h1>
-<h3 align="center">I'm machine learning enthusiast</h3>
+<h3 align="center">I'm machine learning  and natural language processing enthusiast</h3>
 
 - 🔭 I’m currently working on [sentiment analysis on IMDB reviews](https://github.com/yashtyagithub/Sentiment-Analysis-of-IMDB-reviews)
 
